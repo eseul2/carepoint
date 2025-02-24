@@ -265,9 +265,14 @@
 
 - 메인페이지 기본 화면입니다. 
 
-![img_44.png](src/main/resources/static/images/img_44.png)
+![img_1.png](src/main/resources/static/images/목표 작성.png)
+- 주간 목표 섹션에서 목표 작성을 통해 주간 목표를 설정할 수 있습니다.
 
-- 목표 설정을 통해 주간 목표를 설정할 수 있습니다.
+![img_2.png](src/main/resources/static/images/오늘의 수치.png)
+
+- 오늘의 수치를 입력하면 주간 목표 달성 그래프가 증가합니다. 
+- 사용자가 달성한 주간 목표 수와 운동 기록한 횟수를 시각화 하여 한 눈에 확인할 수 있습니다. 
+
 
 ![img_10.png](src/main/resources/static/images/img_10.png)
 - 운동 종류와 시간을 선택하여 캘린더에 등록할 수 있습니다.
@@ -275,6 +280,7 @@
 ![img_11.png](src/main/resources/static/images/img_11.png)
 
 - 캘린더에서 해당 날짜를 누르면 상세내용을 볼 수 있습니다. 
+- 잘못 입력했다면 기록 삭제 버튼을 눌러 내용을 삭제 할 수 있습니다.
 
 ![img_9.png](src/main/resources/static/images/img_9.png)
 
